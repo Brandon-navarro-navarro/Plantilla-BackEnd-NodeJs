@@ -1,4 +1,6 @@
-![Plantilla Rest Server](https://github.com/user-attachments/assets/f901de66-cc8d-4213-be77-45382344bc85)
+
+![Plantilla Rest Server](https://github.com/user-attachments/assets/d5359f4a-a8d9-4d69-8cdc-c9c1f128b489)
+
 # 💻 Guía de Uso de Plantilla para REST Server con Node.js y Express
 
 Hola soy Brandon, esta plantilla proporciona una base sólida para desarrollar APIs REST utilizando **Node.js** y **Express**. La estructura de carpetas está diseñada para ser modular, escalable y fácil de entender, permitiendo que puedas empezar rápidamente y extenderla según tus necesidades.
