@@ -1,16 +1,14 @@
 {
   "name": "apprestserver",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-nodemon": "nodemon --env-file=.env app.js",
+    "start": "node --env-file=.env app.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Brandon Navarro Navarro",
   "license": "ISC",
   "dependencies": {
-    "apprestserver": "file:",
     "cors": "^2.8.5",
     "express": "^4.21.1"
   }
