@@ -1,9 +1,7 @@
-
+![Plantilla Rest Server](https://github.com/user-attachments/assets/f901de66-cc8d-4213-be77-45382344bc85)
 # 💻 Guía de Uso de Plantilla para REST Server con Node.js y Express
 
 Hola soy Brandon, esta plantilla proporciona una base sólida para desarrollar APIs REST utilizando **Node.js** y **Express**. La estructura de carpetas está diseñada para ser modular, escalable y fácil de entender, permitiendo que puedas empezar rápidamente y extenderla según tus necesidades.
-
-{% @github-files/github-code-block url="https://github.com/Brandon-navarro-navarro/Plantilla-BackEnd-NodeJs" fullWidth="false" %}
 
 ## Estructura de Carpetas
 
