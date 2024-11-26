@@ -1,21 +1,3 @@
----
-cover: .gitbook/assets/Plantilla Rest Server.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # 💻 Guía de Uso de Plantilla para REST Server con Node.js y Express
 
